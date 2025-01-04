@@ -7,9 +7,6 @@ Welcome to my personal portfolio website! This website showcases my projects, sk
 my-portfolio/
 │
 ├── index.html                # Main landing page of the website
-├── about.html                # About Me page
-├── projects.html             # Projects showcase page
-├── contact.html              # Contact information page
 ├── assets/                   # Folder for images, videos, etc.
 │   ├── images/               # Images (profile picture, project images)
 │   ├── css/                  # CSS stylesheets
@@ -37,7 +34,7 @@ my-portfolio/
 
 ## How to View My Portfolio
 
-You can view my portfolio live by visiting [GitHub Pages link](https://yourusername.github.io/my-portfolio). 
+You can view my portfolio live by visiting [GitHub Pages link](https://mathtechwhiz.github.io/portfolio/).
 
 ## How to Contribute
 
